@@ -1,8 +1,16 @@
-.contact_form > *{
-	display: inline-block;
+.contact_form > p{
+	display: block;
 }
 
 .contact_area {
 	width: 700px;
 	margin: 0px auto;
+}
+
+.contact_line {
+	
+}
+
+.contact_button {
+
 }
