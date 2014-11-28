@@ -3,12 +3,8 @@
 }
 
 .contact_area, .contact_line {
-	width: 700px;
+	width: 70%;
 	margin: 0px auto;
-}
-
-.contact_line {
-
 }
 
 .contact_button {
