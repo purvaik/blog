@@ -1,3 +1,7 @@
 .contact_form > *{
 	display: inline-block;
 }
+
+.contact_area {
+	width: 700px;
+}
