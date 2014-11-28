@@ -2,15 +2,16 @@
 	display: block;
 }
 
-.contact_area {
+.contact_area, .contact_line {
 	width: 700px;
 	margin: 0px auto;
 }
 
 .contact_line {
-	
+
 }
 
 .contact_button {
-
+	display: block;
+	margin: 0px auto;
 }
